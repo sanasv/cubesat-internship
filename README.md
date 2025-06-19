@@ -26,12 +26,14 @@ Includes technical exercises, documentation, and research activities that helped
 
 ### `/finalproj/`
 My contributions to the final interdisciplinary project, which involved designing a satellite mission.  
-- 📡 Worked on the **Command and Data Handling (CDH)** subsystem, aligning with my academic background.  
+- 📡 Worked on the **Command and Data Handling (CDH)** subsystem, aligning with my academic background.
+  
 - ❄️ Voluntarily contributed to the **Thermal Control** subsystem to apply additional knowledge gained during the internship.
 
 ### `/personalproj/`
 Independent projects done under the guidance of my supervisor:  
-- 🌕 A **Lunar Simulation** project (details not disclosed due to ongoing publication work).  
+- 🌕 A **Lunar Simulation** project (details not disclosed due to ongoing publication work).
+  
 - ☄️ A **Machine Learning project** assessing asteroid impact probability using real-world datasets.
 
   ## 📝 Notes
