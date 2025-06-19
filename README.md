@@ -5,9 +5,9 @@ This repository contains all the tasks and projects I completed during my intern
 ## 💼 Internship Details
 
 - **Internship Role:** CubeSat Lab Intern  
-- **Company/Organization:** Sharjah Academy of Astronomy, Space Scienes and Technology (SAASST)
+- **Organization:** Sharjah Academy of Astronomy, Space Scienes and Technology (SAASST)
 - **Duration:** 27 May 2024 – 25 July 2024 
-- **Supervisor/Mentor:** Ms. Nafisa Zian Imam 
+- **Supervisor:** Ms. Nafisa Zian Imam 
 - **Location:** Sharjah, UAE
 
 ## 🛠️ Tools & Technologies Used
