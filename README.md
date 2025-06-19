@@ -32,7 +32,7 @@ My contributions to the final interdisciplinary project, which involved designin
 Independent projects done under the guidance of my supervisor:  
 - 🌕 A **Lunar Simulation** project (details not disclosed due to ongoing publication work).
   
-- ☄️ A **Machine Learning project** assessing asteroid impact probability using real-world datasets.
+- ☄️ A **Machine Learning project** assessing asteroid impact probability.
 
   ## 📝 Notes
 
