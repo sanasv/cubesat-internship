@@ -18,8 +18,6 @@ This repository contains all the tasks and projects I completed during my intern
 
 ## 📂 Folder Structure
 
-## 📂 Folder Structure
-
 ### `/tasks/`
 Tasks assigned to all interns during the internship.  
 Includes technical exercises, documentation, and research activities that helped build core competencies.
